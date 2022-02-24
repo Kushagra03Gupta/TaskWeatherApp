@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity
         }
 
         Picasso.get().load("https://ieeevit.org/images/main_logo_ieee.png").into(logoIV);
-        Picasso.get().load("https://wallpaperaccess.com/full/6912878.jpg").into(backIV);
+        Picasso.get().load("https://wallpaper.dog/large/17016720.png").into(backIV);
 
         searchIV.setOnClickListener(new View.OnClickListener() {
             @Override
